@@ -7,8 +7,8 @@ sky:
     username: root
     password: "07582809580"
   alioss:
-    endpoint: oss-cn-shenzhen.aliyuncs.com
-    access-key-secret: VI69DTaOKtwUUJ1VzsaS6S3tv0Qbun
-    access-key-id: LTAI5tGx7WePvdMqHsVB6YW8
-    bucket-name: sky-take-outhzx
+    endpoint: 
+    access-key-secret: 
+    access-key-id: 
+    bucket-name: 
 
